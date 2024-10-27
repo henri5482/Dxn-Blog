@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/  # Bloquear acceso a la carpeta privada 
 Allow: /  # Permitir acceso a todas las demás áreas
 
-Sitemap: https://dxnayacucho.vercel.app/sitemap.xml  
+Sitemap: https://dxnblog.vercel.app/sitemap.xml  

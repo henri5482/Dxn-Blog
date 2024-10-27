@@ -41,7 +41,7 @@ export default function BlogLayout({ children }) {
       <head>
         <meta name="robots" content="index, follow" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://dxnayacucho.vercel.app/blog" />
+        <link rel="canonical" href="https://dxnblog.vercel.app/" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://res.cloudinary.com" />
@@ -49,8 +49,8 @@ export default function BlogLayout({ children }) {
         {/* Open Graph Meta Tags */}
         <meta property="og:title" content="Blog DXN Ayacucho | Salud y Bienestar" />
         <meta property="og:description" content="Bienvenido al Blog DXN Ayacucho. Explora artículos sobre salud, bienestar y nuestros productos." />
-        <meta property="og:url" content="https://dxnayacucho.vercel.app/blog" />
-        <meta property="og:image" content="https://dxnayacucho.vercel.app/bannerdxn.jpg" />
+        <meta property="og:url" content="https://dxnblog.vercel.app/" />
+        <meta property="og:image" content="https://dxnblog.vercel.app/bannerdxn.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:site_name" content="Blog DXN Ayacucho" />
@@ -74,8 +74,8 @@ export default function BlogLayout({ children }) {
               "@context": "https://schema.org",
               "@type": "Organization",
               name: "DXN Ayacucho",
-              url: "https://dxnayacucho.vercel.app/",
-              logo: "https://dxnayacucho.vercel.app/favicon.ico",
+              url: "https://dxnblog.vercel.app/",
+              logo: "https://dxnblog.vercel.app/favicon.ico",
               contactPoint: {
                 "@type": "ContactPoint",
                 telephone: "+51 918237837",
