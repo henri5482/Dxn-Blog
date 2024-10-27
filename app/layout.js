@@ -1,5 +1,6 @@
 import localFont from "next/font/local";
 import Footer from "../components/Footer";
+import GoogleAnalytics from "../components/GoogleAnalytics";
 import Navbar from "../components/Navbar";
 import "./globals.css";
 
@@ -89,6 +90,8 @@ export default function BlogLayout({ children }) {
         />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <GoogleAnalytics />
+
         <Navbar />
         <main className="container p-4 mx-auto">
           {children}
