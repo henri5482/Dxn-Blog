@@ -31,7 +31,7 @@ export const articles = [
       <p>
         Es recomendable comenzar con una dosis pequeña y aumentarla gradualmente, según tus necesidades.
       </p>`,
-    image: "/dx,0.png",
+    image: "/dx,0.webp",
     date: "23 de Noviembre  del 2024",
   },
   {
@@ -347,7 +347,7 @@ export const articles = [
     date: "23 de Noviembre  del 2024",
   },
   {
-    id: "9",
+    id: "10",
     title2: "¿Qué es Ganoderma Reishi Gano?",
     title: "Ganoderma Reishi Gano: Qué es, Cómo se Usa y sus Beneficios",
     excerpt:

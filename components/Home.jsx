@@ -5,7 +5,7 @@ import { articles } from "../data/articles";
 
 export default function Blog() {
   const featuredArticle = articles[0]; // Artículo destacado
-  const otherArticles = articles.slice(1, 10); // Otros 3 artículos
+  const otherArticles = articles.slice(1, 11); // Otros 3 artículos
 
   return (
     <>
